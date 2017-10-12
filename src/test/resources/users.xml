@@ -1,0 +1,18 @@
+<users>
+    <user>
+        <login>irisha.ruda85@gmail.com</login>
+        <password>ruda1234</password>
+    </user>
+    <user>
+        <login>iryna123first@gmail.com</login>
+        <password>A1aB2bC3c</password>
+    </user>
+     <user>
+        <login>myeml2436423@gmail.com</login>
+        <password>myeml2436423myeml2436423</password>
+    </user>
+    <user>
+        <login>my.test.email.987654@gmail.com</login>
+        <password>my.test.email.987654my.test.email.987654</password>
+    </user>
+</users>

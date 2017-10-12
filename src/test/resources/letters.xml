@@ -1,0 +1,22 @@
+<letters>
+    <letter>
+        <to>p.tsiupak@gmail.com</to>
+        <subject>Test message 1</subject>
+        <content>Test message content 1</content>
+    </letter>
+    <letter>
+        <to>p.tsiupak@gmail.com</to>
+        <subject>Test message 2</subject>
+        <content>Test message content 2</content>
+    </letter>
+    <letter>
+        <to>p.tsiupak@gmail.com</to>
+        <subject>Test message 3</subject>
+        <content>Test message content 3</content>
+    </letter>
+    <letter>
+        <to>p.tsiupak@gmail.com</to>
+        <subject>Test message 4</subject>
+        <content>Test message content 4</content>
+    </letter>
+</letters>
