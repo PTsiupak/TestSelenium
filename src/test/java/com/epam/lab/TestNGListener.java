@@ -10,36 +10,36 @@ public class TestNGListener implements ITestListener {
 
     @Override
     public void onTestStart(ITestResult iTestResult) {
-        LOG.info("Test just start" + iTestResult.getTestName());
+        LOG.info("Test just start " + iTestResult.getTestName());
     }
 
     @Override
     public void onTestSuccess(ITestResult iTestResult) {
-        LOG.info("Test succesfull" + iTestResult.getTestName());
+        LOG.info("Test succesfull " + iTestResult.getTestName());
     }
 
     @Override
     public void onTestFailure(ITestResult iTestResult) {
-        LOG.info("Test fail" + iTestResult.getTestName());
+        LOG.info("Test fail " + iTestResult.getTestName());
     }
 
     @Override
     public void onTestSkipped(ITestResult iTestResult) {
-        LOG.info("Test skipped" + iTestResult.getTestName());
+        LOG.info("Test skipped " + iTestResult.getTestName());
     }
 
     @Override
     public void onTestFailedButWithinSuccessPercentage(ITestResult iTestResult ) {
-        LOG.info("Test fail but within success percentage" + iTestResult.getTestName());
+        LOG.info("Test fail but within success percentage " + iTestResult.getTestName());
     }
 
     @Override
     public void onStart(ITestContext iTestContext) {
-        LOG.info("Test start" + iTestContext.getName());
+        LOG.info("Test start " + iTestContext.getName());
     }
 
     @Override
     public void onFinish(ITestContext iTestContext) {
-        LOG.info("Test finish" + iTestContext.getName());
+        LOG.info("Test finish " + iTestContext.getName());
     }
 }
