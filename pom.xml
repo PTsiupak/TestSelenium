@@ -30,7 +30,7 @@
                         </property>
                     </properties>
                     <suiteXmlFiles>
-                        <suiteXmlFile>src/test/java/net/testools/resources/testSuite.xml</suiteXmlFile>
+                        <suiteXmlFile>testSuite.xml</suiteXmlFile>
                     </suiteXmlFiles>
                 </configuration>
             </plugin>
